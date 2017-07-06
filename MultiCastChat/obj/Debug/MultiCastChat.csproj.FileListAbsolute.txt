@@ -1,0 +1,9 @@
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\bin\Debug\MultiCastChat.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\bin\Debug\MultiCastChat.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\bin\Debug\MultiCastChat.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\MultiCastChat\MultiCastChat\obj\Debug\MultiCastChat.pdb
